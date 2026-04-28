@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blog/jp/categories/</loc>
+    <loc>http://localhost:1313/Magnekkoblog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-blog/categories/"
+                href="http://localhost:1313/Magnekkoblog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:1313/my-blog/jp/categories/"
+                href="http://localhost:1313/Magnekkoblog/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-blog/jp/</loc>
+    <loc>http://localhost:1313/Magnekkoblog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-blog/"
+                href="http://localhost:1313/Magnekkoblog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:1313/my-blog/jp/"
+                href="http://localhost:1313/Magnekkoblog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-blog/jp/tags/</loc>
+    <loc>http://localhost:1313/Magnekkoblog/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-blog/tags/"
+                href="http://localhost:1313/Magnekkoblog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja-jp"
-                href="http://localhost:1313/my-blog/jp/tags/"
+                href="http://localhost:1313/Magnekkoblog/tags/"
                 />
   </url>
 </urlset>

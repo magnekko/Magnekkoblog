@@ -1,15 +1,16 @@
 title: "Magnekko blog!!"
-baseURL: 'https://magnekko.github.io/my-blog'
+baseURL: 'https://magnekko.github.io/Magnekkoblog'
 languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
+DefaultContentLanguage: "jp"
 
 languages:
   en:
     languageCode: en-us
     contentDir: content/en
     languageName: english
-    weight: 1
+    weight: 2
     params:
       sidebar:
         tags:
@@ -26,7 +27,7 @@ languages:
     languageCode: ja-jp
     contentDir: content/jp
     languageName: 日本語
-    weight: 2
+    weight: 1
     params:
       sidebar:
         tags:
