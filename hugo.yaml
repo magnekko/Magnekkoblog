@@ -4,6 +4,8 @@ languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
 DefaultContentLanguage: "jp"
+canonifyURLs: true
+relativeURLs: false
 
 languages:
   en:
